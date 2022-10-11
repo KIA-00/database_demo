@@ -24,7 +24,6 @@
             <scope>provided</scope>
         </dependency>
 
-
         <!--MyBatis-->
         <dependency>
             <groupId>org.mybatis</groupId>
@@ -44,7 +43,6 @@
             <artifactId>fastjson</artifactId>
             <version>1.2.62</version>
         </dependency>
-
     </dependencies>
 
     <build>
