@@ -14,7 +14,6 @@
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
 
-
     <dependencies>
         <!--Servlet-->
         <dependency>
@@ -23,7 +22,6 @@
             <version>3.1.0</version>
             <scope>provided</scope>
         </dependency>
-
 
         <!--MyBatis-->
         <dependency>
